@@ -21,7 +21,7 @@ Dieses Repository enthält das Backend-Skript für **DSB-Bot**, das automatisch 
    ```bash
    git clone https://github.com/USERNAME/dsb-bot-backend.git
    cd dsb-bot-backend
-````
+   ```
 
 2. Python 3 und benötigte Pakete installieren:
 
